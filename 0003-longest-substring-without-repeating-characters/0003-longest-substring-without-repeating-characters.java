@@ -6,14 +6,13 @@ class Solution {
         }
         int i=0;
         int m=0;
-        // hs.add(s.charAt(0));
             for(int j=i;j<s.length();j++){
             while(hs.contains(s.charAt(j))){
                 hs.remove(s.charAt(i));
                 i++;
             }
                 hs.add(s.charAt(j));
-                m=Math.max(m,hs.size());
+                m=Math.max(m,j-i+1);
             }
         
         return m;
