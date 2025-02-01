@@ -12,7 +12,7 @@ class Solution {
                 i++;
             }
                 hs.add(s.charAt(j));
-                m=Math.max(m,j-i+1);
+                m=Math.max(m,hs.size());
             }
         
         return m;
