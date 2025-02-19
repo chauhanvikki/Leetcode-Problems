@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Stack
