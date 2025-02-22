@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
