@@ -10,8 +10,6 @@ class Solution {
         int k=0;
         while(i<N && j<M){
             if(nums1[i]==nums2[j]){
-            // if(k==0 || nums1[i]!=n[k-1]){
-                // if(nums1[i]==nums2[j]){
                     n[k]=nums1[i];
                     k++;
                 // }
