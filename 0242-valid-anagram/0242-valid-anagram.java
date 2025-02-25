@@ -2,7 +2,6 @@ class Solution {
     public boolean isAnagram(String s, String t) {
         char[] str1=s.toCharArray();
         char[] str2=t.toCharArray();
-        // int m=Math.max(str1.length,str2.length);
         Arrays.sort(str1);
         Arrays.sort(str2);
         if(str1.length!=str2.length){
