@@ -6,11 +6,10 @@ class Solution {
             p[i]=nums[i]+p[i-1];
         }
         int l=p[nums.length-1];
-        int m=l/2;
         int j=0;
         while(j<nums.length){
             int left;
-            left=(j==0)?0:p[j-1];
+            left=(j==0)?0:p[j-1];  //using the ternary operator (? :)
             int total=p[nums.length-1];
             int right=total-p[j];
             if(left==right){
