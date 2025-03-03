@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
