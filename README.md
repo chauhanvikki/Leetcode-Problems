@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
