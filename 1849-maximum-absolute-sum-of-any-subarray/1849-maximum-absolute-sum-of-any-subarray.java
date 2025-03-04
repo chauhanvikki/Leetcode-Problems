@@ -8,7 +8,7 @@ class Solution {
         ms=Math.max(sum,ms);
         mi=Math.min(mi,sum);
        }
-       mi=Math.abs(mi);
-       return mi+ms;
+       return Math.abs(mi-ms);
+    //    return ;
     }
 }
