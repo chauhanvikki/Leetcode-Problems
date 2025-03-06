@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
