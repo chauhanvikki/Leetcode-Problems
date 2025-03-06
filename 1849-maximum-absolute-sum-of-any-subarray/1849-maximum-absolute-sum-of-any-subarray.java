@@ -9,6 +9,5 @@ class Solution {
         mi=Math.min(mi,sum);
        }
        return Math.abs(mi-ms);
-    //    return ;
     }
 }
