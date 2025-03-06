@@ -1,6 +1,6 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        int MOD=1000000007;
+        long MOD=1000000007;
         long es=1;
         long os=0;
         long res=0;
