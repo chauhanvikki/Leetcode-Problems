@@ -8,7 +8,6 @@ class Solution {
                 res[j]=nums[i];
                 j++;
             }
-            // j++;
         }
         for(int i=0;i<n;i++){
             if(nums[i]==pivot){
