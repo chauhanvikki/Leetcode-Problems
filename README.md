@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Recursion
 |  |
