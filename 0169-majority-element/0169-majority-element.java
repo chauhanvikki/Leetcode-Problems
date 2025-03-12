@@ -1,26 +1,27 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int candi=nums[0];
+        int cand=nums[0];
         int count=0;
-        for(int num:nums){
+        for(int i:nums){
             if(count==0){
-                candi=num;
+                cand=i;
             }
-            if(candi==num){
+            if(cand==i){
                 count++;
             }
+
             else{
                 count--;
             }
         }
         count=0;
-        for(int num:nums){
-            if(candi==num){
+        for(int i:nums){
+            if(cand==i){
                 count++;
             }
         }
         if(count>nums.length/2){
-            return candi;
+            return cand;
         }
         return -1;
     //     HashMap<Integer,Integer> hm=new HashMap<>();
