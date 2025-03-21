@@ -17,9 +17,7 @@ class Solution {
             }
             st.push(i);
         }
-        while(!st.isEmpty()){
-            st.pop();
-        }
+        st.clear();
         for(int i=0;i<n;i++){
             while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
                 st.pop();
