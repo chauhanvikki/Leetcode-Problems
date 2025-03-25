@@ -1,43 +1,45 @@
-
 class Solution {
     public long maximumSumOfHeights(int[] heights) {
-        int n = heights.length;
-        long[] leftSum = new long[n];
-        long[] rightSum = new long[n];
-        
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> st=new Stack<>();
+        int n=heights.length;
+        long[] right=new long[n];
+        long[] left=new long[n];
+        long sum=0;
+        long max=0;
 
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && heights[stack.peek()] > heights[i]) {
-                stack.pop();
+        for(int i=0;i<n;i++){
+            while(!st.isEmpty() && heights[st.peek()]>heights[i]){
+                st.pop();
             }
-            if (stack.isEmpty()) {
-                leftSum[i] = (long) heights[i] * (i + 1);
-            } else {
-                leftSum[i] = leftSum[stack.peek()] + (long) heights[i] * (i - stack.peek());
+            if(st.isEmpty()){
+                sum=(i+1)*(long)heights[i];
             }
-            stack.push(i);
+            else{
+                int prev=st.peek();
+                sum=left[prev]+ (long)heights[i]*(i-prev);
+            }
+            left[i]=sum;
+            st.push(i);
         }
-
-        stack.clear();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[stack.peek()] > heights[i]) {
-                stack.pop();
+        st.clear();
+        sum=0;
+        for(int i=n-1;i>=0;i--){
+            while(!st.isEmpty() && heights[st.peek()]>heights[i]){
+                st.pop();
             }
-            if (stack.isEmpty()) {
-                rightSum[i] = (long) heights[i] * (n - i);
-            } else {
-                rightSum[i] = rightSum[stack.peek()] + (long) heights[i] * (stack.peek() - i);
+            if(st.isEmpty()){
+                sum=(n-i)*(long)heights[i];
             }
-            stack.push(i);
+            else{
+                int prev=st.peek();
+                sum=right[prev]+ (long)heights[i]*(prev-i);
+            }
+            right[i]=sum;
+            st.push(i);
         }
-
-        long maxSum = 0;
-        for (int i = 0; i < n; i++) {
-            maxSum = Math.max(maxSum, leftSum[i] + rightSum[i] - heights[i]);
+        for(int i=0;i<n;i++){
+            max=Math.max(max,(right[i]+left[i])-(long)heights[i]);
         }
-
-        return maxSum;
+        return max;
     }
 }
