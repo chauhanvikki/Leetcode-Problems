@@ -1,23 +1,23 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st=new Stack<>();
-        int i=0;
-        while(s.length()>i){
-            if(s.charAt(i)=='('||s.charAt(i)=='{'||s.charAt(i)=='['){
-                st.add(s.charAt(i));
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            char c=s.charAt(i);
+            if(c=='(' || c=='[' || c=='{'){
+                st.push(c);
             }
             else{
                 if(st.isEmpty()){
                     return false;
                 }
-                if(s.charAt(i)==')' && st.peek()=='(' || s.charAt(i)=='}' && st.peek()=='{' || s.charAt(i)==']' && st.peek()=='['){
-                st.pop();
+                if(st.peek()=='(' && c==')'|| st.peek()=='{' &&c=='}' || st.peek()=='[' && c==']' ){
+                    st.pop();
                 }
                 else{
                     return false;
                 }
-                }
-                i++;
+            }
         }
         if(st.isEmpty()){
             return true;
