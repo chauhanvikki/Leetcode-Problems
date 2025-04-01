@@ -1,6 +1,5 @@
 class Solution {
     public int trap(int[] height) {
-    //     Stack<Integer> st=new Stack<>();
         int n=height.length;
         int[] left=new int[n];
         left[0]=height[0];
