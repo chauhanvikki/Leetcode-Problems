@@ -20,19 +20,20 @@ class Solution {
         helper(res,ls,root,targetSum);
         return res;
     }
-    public void helper(List<List<Integer>> res,List<Integer> ls, TreeNode node, int target){
-        if(node==null){
+    public void helper(List<List<Integer>> res,List<Integer> ls,TreeNode root,int targetSum){
+        if(root==null){
             return;
         }
-        if(node.left==null && node.right==null && target-node.val==0){
-            ls.add(node.val);
+        ls.add(root.val);
+        if(root.left==null && root.right==null && targetSum-root.val==0){
             res.add(new ArrayList<>(ls));
             ls.remove(ls.size()-1);
             return;
         }
-        ls.add(node.val);
-        helper(res,ls,node.left,target-node.val);
-        helper(res,ls,node.right,target-node.val);
+        else{
+            helper(res,ls,root.left,targetSum-root.val);
+            helper(res,ls,root.right,targetSum-root.val);
+        }
         ls.remove(ls.size()-1);
     }
 }
