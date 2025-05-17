@@ -32,7 +32,7 @@ class Solution {
                         grid[p.x-1][p.y]=2;
                         q.offer(new pair(p.x-1,p.y));      
                     }
-                    if(p.y+1 < grid.length && grid[p.x][p.y+1]==1){
+                    if(p.y+1 < grid[0].length && grid[p.x][p.y+1]==1){
                         grid[p.x][p.y+1]=2;
                         q.offer(new pair(p.x,p.y+1));      
                     }
