@@ -29,49 +29,49 @@ class Solution {
         }
         int[] res=new int[n];
         for(int i=0;i<n;i++){
-            res[i]=dfs(i,-1,ls,k);
+            res[i]=bfs(i,ls,k);
         }
         return res;
     }
-    // private int bfs(int start, List<List<Integer>> ls, int k){
-    //     int count=0;
-    //     Queue<int[]> q=new LinkedList<>();
-    //     boolean vis[]=new boolean[ls.size()];
+    private int bfs(int start, List<List<Integer>> ls, int k){
+        int count=0;
+        Queue<int[]> q=new LinkedList<>();
+        boolean vis[]=new boolean[ls.size()];
 
-    //     q.offer(new int[]{start,0});
-    //     vis[start]=true;
+        q.offer(new int[]{start,0});
+        vis[start]=true;
 
-    //     while(!q.isEmpty()){
-    //         int[] curr=q.poll();
-    //         int node=curr[0];
-    //         int dist=curr[1];
-    //         if(dist>k){
-    //             continue;
-    //         }
-    //         count++;
-
-    //         for(int neighbor: ls.get(node)){
-    //             if(!vis[neighbor]){
-    //                 vis[neighbor]=true;
-    //                 q.offer(new int[]{neighbor,dist+1});
-    //             }
-    //         }
-            
-    //     }
-    //     return count;
-    // }
-    
-    private int dfs(int node, int parent, List<List<Integer>> ls, int k){
-        if(k<0){
-            return 0;
-        }
-        int res=1;
-        for(int child: ls.get(node)){
-            if(child==parent){
+        while(!q.isEmpty()){
+            int[] curr=q.poll();
+            int node=curr[0];
+            int dist=curr[1];
+            if(dist>k){
                 continue;
             }
-            res+=dfs(child,node,ls,k-1);
+            count++;
+
+            for(int neighbor: ls.get(node)){
+                if(!vis[neighbor]){
+                    vis[neighbor]=true;
+                    q.offer(new int[]{neighbor,dist+1});
+                }
+            }
+            
         }
-        return res;
+        return count;
     }
+    
+//     private int dfs(int node, int parent, List<List<Integer>> ls, int k){
+//         if(k<0){
+//             return 0;
+//         }
+//         int res=1;
+//         for(int child: ls.get(node)){
+//             if(child==parent){
+//                 continue;
+//             }
+//             res+=dfs(child,node,ls,k-1);
+//         }
+//         return res;
+//     }
 }
