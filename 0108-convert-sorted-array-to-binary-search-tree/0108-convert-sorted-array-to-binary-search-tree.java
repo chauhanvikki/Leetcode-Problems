@@ -17,7 +17,7 @@ class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
         return helper(nums,0,nums.length-1);
     }
-    public TreeNode helper(int[] nums,int left,int right){
+    private TreeNode helper(int[] nums, int left, int right){
         if(left>right){
             return null;
         }
