@@ -19,7 +19,7 @@ class Solution {
         helper(root,post);
         return post;
     }
-    public static void helper(TreeNode root, List<Integer> post){
+    private void helper(TreeNode root,List<Integer> post){
         if(root==null){
             return;
         }
