@@ -24,7 +24,6 @@ class Solution {
         while(!q.isEmpty()){
             int size=q.size();
             List<Integer> ls=new ArrayList<>();
-            // Stack<Integer> st=new Stack<>();
             for(int i=0;i<size;i++){
                 TreeNode curr=q.peek();
                 if(curr.left!=null)q.add(curr.left);
