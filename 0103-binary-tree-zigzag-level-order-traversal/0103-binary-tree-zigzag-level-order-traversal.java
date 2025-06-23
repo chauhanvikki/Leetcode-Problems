@@ -28,19 +28,20 @@ class Solution {
                 TreeNode curr=q.peek();
                 if(curr.left!=null)q.add(curr.left);
                 if(curr.right!=null)q.add(curr.right);
-                if(count%2==0){
+                // if(count%2==0){
                     ls.add(curr.val);
-                }
-                else{
-                    st.push(curr.val);
-                }
+                // }
+                // else{
+                //     st.push(curr.val);
+                // }
                 q.remove();
             }
             if(count%2 !=0){
-                while(!st.isEmpty()){
-                    ls.add(st.peek());
-                    st.pop();
-                }
+                // while(!st.isEmpty()){
+                //     ls.add(st.peek());
+                //     st.pop();
+                // }
+                Collections.reverse(ls);
             }
             count++;
             res.add(ls);
