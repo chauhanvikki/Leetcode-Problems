@@ -10,71 +10,49 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null)return null;
-        int count=count(head);
-        int arr[]=new int[count];
+        if(head==null || head.next==null)return head;
+        ListNode slow=head;
+        ListNode fast=head;
         ListNode temp=head;
-        int j=0;
-        while(temp!=null){
-            arr[j]=temp.val;
-            temp=temp.next;
-            j++;
+        ListNode prev=new ListNode(0);
+        prev.next=temp;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+            prev=prev.next;
         }
-        ListNode l=new ListNode(0);
-        ListNode newL=l;
-        int sort[]=merge(arr);
-        for(int i=0;i<sort.length;i++){
-            l.next=new ListNode(sort[i]);
-            l=l.next;
-        }
-        return newL.next;
-    }
-    public static int[] merge(int[] arr){
-        if(arr.length==1){
-            return arr;
-        }
-        int mid=arr.length/2;
-        int[] first=Arrays.copyOfRange(arr,0,mid);
-        int[] second=Arrays.copyOfRange(arr,mid,arr.length);
-        return mergeSort(merge(first),merge(second));
+        ListNode l2=sortList(slow);
+        prev.next=null;
+        ListNode l1=sortList(temp);
+        return merge(l1,l2);
     }
 
-    public static int[] mergeSort(int[] left,int[] right){
-        int mix[]=new int[left.length+right.length];
-        int i=0;
-        int j=0;
-        int k=0;
-        while(i<left.length && j<right.length){
-            if(left[i]>right[j]){
-                mix[k]=right[j];
-                j++;
+    public ListNode merge(ListNode first, ListNode second){
+        ListNode temp1=first;
+        ListNode temp2=second;
+        ListNode nn=new ListNode(0);
+        ListNode dummy=nn;
+        while(temp1!=null && temp2!=null){
+            if(temp1.val < temp2.val){
+                nn.next=new ListNode(temp1.val);
+                temp1=temp1.next;
             }
             else{
-                mix[k]=left[i];
-                i++;
+                nn.next=new ListNode(temp2.val);
+                temp2=temp2.next;
             }
-            k++;
+            nn=nn.next;
         }
-        while(left.length>i){
-            mix[k]=left[i];
-            i++;
-            k++;
+        while(temp1!=null){
+            nn.next=new ListNode(temp1.val);
+            temp1=temp1.next;
+            nn=nn.next;
         }
-        
-        while(j<right.length){
-            mix[k]=right[j];
-            j++;
-            k++;
+        while(temp2!=null){
+            nn.next=new ListNode(temp2.val);
+            temp2=temp2.next;
+            nn=nn.next;
         }
-        System.out.println(Arrays.toString(mix));
-        return mix;
-    }
-    public static int count(ListNode l){
-        int c=0;
-        while(l!=null){
-            l=l.next;
-            c++;
-        }
-        return c;
+        return dummy.next;
     }
 }
