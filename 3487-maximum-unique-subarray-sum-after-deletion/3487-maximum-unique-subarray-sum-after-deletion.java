@@ -11,7 +11,6 @@ class Solution {
         }
         if(value)return maxi;
         HashSet<Integer> hs=new HashSet<>();
-        int j=0;
         for(int i=0;i<nums.length;i++){
             if(!hs.contains(nums[i]) && nums[i]>0){
                 sum+=nums[i];
