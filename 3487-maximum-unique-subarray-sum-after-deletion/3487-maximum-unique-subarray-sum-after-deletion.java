@@ -1,6 +1,5 @@
 class Solution {
     public int maxSum(int[] nums) {
-        // Arrays.sort(nums);
         int sum=0;
         boolean value=true;
         int maxi=Integer.MIN_VALUE;
