@@ -19,13 +19,11 @@ class Solution {
         calculate(root);
         return diameter;
     }
-    private int calculate(TreeNode node){
-        if(node==null){
-            return 0;
-        }
-        int l=calculate(node.left);
-        int r=calculate(node.right);
-        diameter= Math.max((l+r),diameter);
+    public int calculate(TreeNode root){
+        if(root==null)return 0;
+        int l=calculate(root.left);
+        int r=calculate(root.right);
+        diameter=Math.max((l+r),diameter);
         return 1+Math.max(l,r);
     }
 }
