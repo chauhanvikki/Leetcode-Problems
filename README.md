@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
