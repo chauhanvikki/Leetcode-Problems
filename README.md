@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
