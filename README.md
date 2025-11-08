@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 ## Bit Manipulation
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0101-symmetric-tree) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
