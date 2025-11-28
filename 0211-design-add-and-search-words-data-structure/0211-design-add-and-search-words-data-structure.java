@@ -29,7 +29,7 @@ class WordDictionary {
 
     public boolean dfs(String word,int index,TrieNode node){
         if(word.length()==index){
-            return true;
+            return node.isEnd;
         }
         char ch=word.charAt(index);
         if(ch!='.'){
@@ -37,7 +37,7 @@ class WordDictionary {
             if(node.children[idx]==null){
                 return false;
             }
-            dfs(word,index+1,node.children[idx]);   
+            return dfs(word,index+1,node.children[idx]);   
         }
 
         for(int i=0;i<26;i++){
