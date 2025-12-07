@@ -1,11 +1,11 @@
 class Solution {
     public int countOdds(int low, int high) {
-        if(high==low){
-            return high%2;
+        int ans=0;
+        for(int i=low;i<=high;i++){
+            if(i%2!=0){
+                ans++;
+            }
         }
-        if(high%2==0 && low%2==0){
-            return (high-low)/2;
-        }
-        return (high-low)/2+1;
+        return ans;
     }
 }
