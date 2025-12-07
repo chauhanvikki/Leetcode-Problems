@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
