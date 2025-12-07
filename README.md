@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 ## Design
 |  |
 | ------- |
