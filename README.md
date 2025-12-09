@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Linked List
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
+| [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
