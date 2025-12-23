@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
+| [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
+| [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 ## Quickselect
 |  |
 | ------- |
