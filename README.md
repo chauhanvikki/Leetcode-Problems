@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 ## Tree
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Backtracking
 |  |
 | ------- |
