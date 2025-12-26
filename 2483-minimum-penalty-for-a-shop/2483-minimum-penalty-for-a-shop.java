@@ -15,10 +15,10 @@ class Solution {
                 count++;
             }
             if(mini>count){
-                ans=i;
+                ans=i+1;
                 mini=count;
             }
         }
-        return ans+1;
+        return ans;
     }
 }
