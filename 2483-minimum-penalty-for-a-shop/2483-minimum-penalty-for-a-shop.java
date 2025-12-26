@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<customers.length();i++){
             if(customers.charAt(i)=='Y')count++;
         }
-        if(count==0 || (customers.length()!=2 && count==1))return 0;
+        if(count==0)return 0;
         mini=count;
         for(int i=0;i<customers.length();i++){
             if(customers.charAt(i)=='Y')count--;
