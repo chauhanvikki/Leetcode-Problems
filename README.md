@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
