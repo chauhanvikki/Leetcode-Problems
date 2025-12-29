@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
