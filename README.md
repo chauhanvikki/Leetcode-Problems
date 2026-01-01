@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
