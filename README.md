@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1975-maximum-matrix-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Backtracking
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 ## Design
 |  |
 | ------- |
