@@ -1,4 +1,4 @@
-class Solution {
+class Solution {  //Histogram+largest rectangle
     public int maximalRectangle(char[][] matrix) {
         int[][] grid=new int[matrix.length][matrix[0].length];
         int maxA=0;
