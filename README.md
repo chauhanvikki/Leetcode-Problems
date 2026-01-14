@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
+| [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -543,4 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
