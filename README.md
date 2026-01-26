@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
