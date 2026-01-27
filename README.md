@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
 | ------- |
@@ -580,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
