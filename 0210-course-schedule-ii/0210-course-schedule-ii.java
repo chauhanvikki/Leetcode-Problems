@@ -10,7 +10,6 @@ class Solution {
             inDig[course[0]]++;
             adj.get(course[1]).add(course[0]);
         }
-        boolean vis[]=new boolean[numCourses];
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<numCourses;i++){
             if(inDig[i]==0){
