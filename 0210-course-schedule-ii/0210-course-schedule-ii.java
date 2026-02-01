@@ -1,34 +1,45 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj=new ArrayList<>();
-        int arr[]=new int[numCourses];
-        int inDig[]=new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            adj.add(new ArrayList<>());
+        int n=numCourses;
+        boolean vis[]=new boolean[n];
+        int ans[]=new int[n];
+        Stack<Integer> st=new Stack<>();
+        List<List<Integer>> graph=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            graph.add(new ArrayList<>());
         }
-        for(int course[]:prerequisites){
-            inDig[course[0]]++;
-            adj.get(course[1]).add(course[0]);
+        int state[]=new int[n];
+        for(int pair[]:prerequisites){
+            int pre=pair[1];
+            int course=pair[0];
+            graph.get(pre).add(course);
         }
-        Queue<Integer> q=new LinkedList<>();
-        for(int i=0;i<numCourses;i++){
-            if(inDig[i]==0){
-                q.add(i);
-            }
-        }
-
-        int k=0;
-        while(!q.isEmpty()){
-            int curr=q.remove();
-            arr[k++]=curr;
-            for(int neighbor: adj.get(curr)){
-                inDig[neighbor]--;
-                if(inDig[neighbor]==0){
-                    q.add(neighbor);
+        for(int i=0;i<n;i++){
+            if(state[i]==0){
+                if(!topo(graph,i,state,st)){
+                    return new int[0];
                 }
             }
         }
-        if(numCourses!=k)return new int[0];
-        return arr;
+        int i=0;
+        while(!st.isEmpty()){
+            ans[i]=st.pop();
+            i++;
+        }
+        return ans;
+    }
+    public boolean topo(List<List<Integer>> graph,int curr,int state[],Stack<Integer> st){
+        state[curr]=1;
+        for(int neigh:graph.get(curr)){
+            if(state[neigh]==1){
+                return false;
+            }
+            if(state[neigh]==0){
+                if(!topo(graph,neigh,state,st))return false;
+            }
+        }
+        state[curr]=2;
+        st.push(curr);
+        return true;
     }
 }
