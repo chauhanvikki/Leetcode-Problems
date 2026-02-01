@@ -1,11 +1,16 @@
 class Solution {
     public int minimumCost(int[] nums) {
-        int a=nums[0];
-        int arr[]=new int[nums.length-1];
+        int first=Integer.MAX_VALUE;
+        int second=Integer.MAX_VALUE;
         for(int i=1;i<nums.length;i++){
-            arr[i-1]=nums[i];
+            int x=nums[i];
+            if(x<first){
+                second=first;
+                first=x;
+            }else if(x<second){
+                second=x;
+            }
         }
-        Arrays.sort(arr);
-        return a+arr[0]+arr[1];
+        return nums[0]+first+second;
     }
 }
