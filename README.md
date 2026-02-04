@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
