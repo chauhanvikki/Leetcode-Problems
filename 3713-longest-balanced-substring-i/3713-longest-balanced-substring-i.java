@@ -5,24 +5,19 @@ class Solution {
             int[] freq=new int[26];
             for(int j=i;j<s.length();j++){
                 freq[s.charAt(j)-'a']++;
-                if(isBalanced(freq)){
+                int maxVal=0;
+                int minVal=Integer.MAX_VALUE;
+                for(int k=0;k<26;k++){
+                    if(freq[k]!=0){
+                        minVal=Math.min(freq[k],minVal);
+                        maxVal=Math.max(freq[k],maxVal);
+                    }
+                }
+                if(minVal==maxVal){
                     ans=Math.max(ans,j-i+1);
                 }
             }
         }
         return ans;
-    }
-    public boolean isBalanced(int[] freq){
-        int count=0;
-        for(int f:freq){
-            if(f!=0){
-                if(count==0){
-                    count=f;
-                }else if(f!=count){
-                    return false;
-                }
-            }
-        }
-        return true;
     }
 }
