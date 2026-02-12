@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
