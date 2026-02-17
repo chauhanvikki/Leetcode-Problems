@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -665,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
