@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
