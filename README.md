@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
