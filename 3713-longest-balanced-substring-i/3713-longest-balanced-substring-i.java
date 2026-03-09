@@ -5,17 +5,15 @@ class Solution {
             int[] freq=new int[26];
             for(int j=i;j<s.length();j++){
                 freq[s.charAt(j)-'a']++;
-                int maxVal=0;
-                int minVal=Integer.MAX_VALUE;
+                int mini=Integer.MAX_VALUE;
+                int maxi=0;
                 for(int k=0;k<26;k++){
                     if(freq[k]!=0){
-                        minVal=Math.min(freq[k],minVal);
-                        maxVal=Math.max(freq[k],maxVal);
+                        mini=Math.min(mini,freq[k]);
+                        maxi=Math.max(maxi,freq[k]);
                     }
                 }
-                if(minVal==maxVal){
-                    ans=Math.max(ans,j-i+1);
-                }
+                if(mini==maxi)ans=Math.max(ans,j-i+1);
             }
         }
         return ans;
