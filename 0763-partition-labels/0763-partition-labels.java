@@ -5,13 +5,12 @@ class Solution {
         for(int i=0;i<s.length();i++){
             freq[s.charAt(i)-'a']=i;
         }
-        int start=0,end=0,k=0;
+        int end=0,k=0;
         for(int i=0;i<s.length();i++){
             end=Math.max(end,freq[s.charAt(i)-'a']);
             k++;
             if(end==i){
                 ls.add(k);
-                start=i+1;
                 k=0;
             }
         }
