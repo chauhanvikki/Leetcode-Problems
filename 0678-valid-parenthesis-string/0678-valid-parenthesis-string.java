@@ -8,15 +8,16 @@ class Solution {
                 maxOpen++;
             }
             else if(ch==')'){
+                if(maxOpen<0)return false;
                 minOpen--;
                 if(minOpen<0)minOpen=0;
                 maxOpen--;
-                if(maxOpen>0)return false;
+                if(maxOpen<0)return false;
             }
             else if(ch=='*'){
                 minOpen--;
                 minOpen=Math.max(minOpen,0);
-                maxOpen--;
+                maxOpen++;
             }
         }
         if(minOpen==0)return true;
