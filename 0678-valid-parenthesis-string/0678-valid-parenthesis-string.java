@@ -8,7 +8,6 @@ class Solution {
                 maxOpen++;
             }
             else if(ch==')'){
-                // if(maxOpen<0)return false;
                 minOpen--;
                 if(minOpen<0)minOpen=0;
                 maxOpen--;
