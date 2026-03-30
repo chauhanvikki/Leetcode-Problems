@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
