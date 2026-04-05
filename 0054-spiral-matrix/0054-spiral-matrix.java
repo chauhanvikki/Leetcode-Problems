@@ -1,34 +1,31 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> ans=new ArrayList<>();
-        int left=0;
-        int right=matrix[0].length-1;
-        int top=0;
-        int bottom=matrix.length-1;
-        while(top<=bottom && left<=right){
-            for(int i=left;i<=right;i++){
-                ans.add(matrix[top][i]);
-            }
-            top++;
-
-            for(int i=top;i<=bottom;i++){
-                ans.add(matrix[i][right]);
-            }
-            right--;
-
-            if(top<=bottom){
-                for(int i=right;i>=left;i--){
-                    ans.add(matrix[bottom][i]);
-                }
-                bottom--;
-            }
-            if(left<=right){
-                for(int i=bottom;i>=top;i--){
-                    ans.add(matrix[i][left]);
-                }
-                left++;
+        int rowLen=matrix.length-1;
+        int colLen=matrix[0].length-1;
+        int row=0,col=0;
+        List<Integer> ls=new ArrayList<>();
+        while(row<=rowLen && col<=colLen){
+        for(int i=col;i<=colLen;i++){
+            ls.add(matrix[row][i]);
+        }
+        for(int i=row+1;i<=rowLen;i++){
+            ls.add(matrix[i][colLen]);
+        }
+        if(row<rowLen){
+            for(int i=colLen-1;i>=col;i--){
+                ls.add(matrix[rowLen][i]);
             }
         }
-        return ans;
-    }
+        if(col<colLen){
+            for(int i=rowLen-1;i>row;i--){
+                ls.add(matrix[i][col]);
+            }
+        }
+        row++;
+        col++;
+        rowLen--;
+        colLen--;
+        }
+        return ls;
+    }    
 }
