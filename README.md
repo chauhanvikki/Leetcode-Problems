@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0057-insert-interval/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0130-surrounded-regions) |
