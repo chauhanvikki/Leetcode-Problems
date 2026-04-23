@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
