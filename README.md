@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1462-course-schedule-iv](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1462-course-schedule-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1462-course-schedule-iv](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1462-course-schedule-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Divide and Conquer
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [1462-course-schedule-iv](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1462-course-schedule-iv](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1462-course-schedule-iv) |
 ## Union-Find
 |  |
 | ------- |
