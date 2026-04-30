@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
 ## Geometry
 |  |
@@ -799,4 +803,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
