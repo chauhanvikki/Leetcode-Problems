@@ -1,25 +1,22 @@
 class MyHashMap {
-    int[][] arr;
+    int[] arr;
+    boolean[] present;
     public MyHashMap() {
-        arr=new int[1999999][2];
-        for(int i=0;i<1999999;i++){
-            Arrays.fill(arr[i],-1);
-        }
+        arr=new int[1999999];
+        present=new boolean[1999999];
     }
     
     public void put(int key, int value) {
-        arr[key][0]=key;
-        arr[key][1]=value;
+        present[key]=true;
+        arr[key]=value;
     }
     
     public int get(int key) {
-        // if(arr[key][0]==0)return -1;
-        return arr[key][1];
+        return present[key] ? arr[key]:-1;
     }
     
     public void remove(int key) {
-        arr[key][0]=-1;
-        arr[key][1]=-1;
+        present[key]=false;
     }
 }
 
