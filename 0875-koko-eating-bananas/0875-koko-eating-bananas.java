@@ -1,14 +1,12 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int min=1;
-        int max=0;
+        int min=1,max=1;
         for(int pile:piles){
-            max=Math.max(pile,max);
+            max=Math.max(max,pile);
         }
-        int mid=0;
         while(max>min){
-            mid=min+(max-min)/2;
-            if(canEatBanana(piles,h,mid)){
+            int mid=min+(max-min)/2;
+            if(canEatBanana(piles,mid,h)){
                 max=mid;
             }
             else{
@@ -17,11 +15,12 @@ class Solution {
         }
         return min;
     }
-    public boolean canEatBanana(int[] piles,int h,int speed){
+    public boolean canEatBanana(int[] piles,int k,int h){
         int hours=0;
-        for(int pile:piles){
-            hours+=(int)(Math.ceil((double)pile/speed));
+        for(int pile : piles){
+            hours+=Math.ceil((double)pile/k);
         }
-        return hours<=h;
+        System.out.println(hours);
+        return h>=hours;
     }
 }
