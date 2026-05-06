@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
