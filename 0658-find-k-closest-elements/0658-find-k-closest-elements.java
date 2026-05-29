@@ -11,10 +11,10 @@ class Solution {
                 l=m+1;
             }
         }
-        List<Integer> res=new ArrayList<>();
+        List<Integer> ls=new ArrayList<>();
         for(int i=l;i<k+l;i++){
-            res.add(arr[i]);
+            ls.add(arr[i]);
         }
-        return res;
+        return ls;
     }
 }
