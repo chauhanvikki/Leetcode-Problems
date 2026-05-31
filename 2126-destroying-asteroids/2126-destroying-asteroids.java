@@ -7,7 +7,8 @@ class Solution {
         while(i<=j){
             if(arr[j]<=mass){
                 mass+=arr[j];
-                j--;
+                return true;
+                // j--;
             }
             else if(arr[i]<=mass){
                 mass+=arr[i];
