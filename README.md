@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0127-word-ladder) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
