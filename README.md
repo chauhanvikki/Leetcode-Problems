@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0895-maximum-frequency-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0706-design-hashmap/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
 ## Geometry
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Topological Sort
 | Problem Name | Difficulty |
