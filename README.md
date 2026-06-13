@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
