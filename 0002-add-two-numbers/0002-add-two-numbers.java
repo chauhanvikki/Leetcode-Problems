@@ -10,27 +10,54 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int carry=0;
-        ListNode temp=null;
-        ListNode head=null;
-        while(carry!=0 || l1!=null || l2!=null){
-            int val1=(l1!=null)?val1=l1.val:0;
-            int val2=(l2!=null)?val2=l2.val:0;
-            int val=val1+val2+carry;
-            carry=val/10;
-            int value=(val)%10;
-            ListNode curr=new ListNode(value);
-            if(head==null){
-                head=curr;
-                temp=curr;
-            }
-            else{
-                temp.next=curr;
-                temp=temp.next;
-            }
-            if(l1!=null) l1=l1.next;
-            if(l2!=null) l2=l2.next;
+        // if(l1==null && l2==null)return new ListNode(0);
+        if(l1==null)return l2;
+        if(l2==null)return l1;
+        // ListNode first=reverse(l1);
+        // ListNode second=reverse(l2);
+        ListNode first=l1;
+        ListNode second=l2;
+        ListNode result=new ListNode((first.val+second.val)%10);
+        ListNode dummy=result;
+        int carry=(first.val+second.val)/10;
+        first=first.next;
+        second=second.next;
+        while(first!=null && second!=null){
+            // carry=(first.val+second.val+carry)/10;
+            ListNode curr=new ListNode((first.val+second.val+carry)%10);
+            carry=(first.val+second.val+carry)/10;
+            dummy.next=curr;
+            dummy=dummy.next;
+            first=first.next;
+            second=second.next;
         }
-        return head;
+        while(first!=null){
+            // carry=(first.val+carry)/10;
+            ListNode curr=new ListNode((first.val+carry)%10);
+            carry=(first.val+carry)/10;
+            dummy.next=curr;
+            dummy=dummy.next;
+            first=first.next;
+        }
+        while(second!=null){
+            // carry=(second.val+carry)/10;
+            ListNode curr=new ListNode((second.val+carry)%10);
+            carry=(second.val+carry)/10;
+            dummy.next=curr;
+            dummy=dummy.next;
+            second=second.next;
+        }
+        if(carry!=0)dummy.next=new ListNode(carry);
+        return (result);
+    }
+    public ListNode reverse(ListNode l){
+        ListNode prev=null;
+        while(l!=null){
+            ListNode next=l.next;
+            l.next=prev;
+            prev=l;
+            l=next;
+        }
+        return prev;
     }
 }
