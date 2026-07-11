@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0427-construct-quad-tree/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -139,8 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
@@ -164,8 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
@@ -195,8 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
@@ -238,8 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0190-reverse-bits) |
@@ -253,8 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -267,8 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0013-roman-to-integer) |
@@ -317,8 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
@@ -337,8 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -365,8 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
@@ -377,8 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0394-decode-string/) | Medium |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -387,8 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0018-4sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0049-group-anagrams) |
@@ -428,8 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0101-symmetric-tree) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0427-construct-quad-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -451,16 +453,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0101-symmetric-tree) |
@@ -482,8 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
@@ -508,8 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0100-same-tree) |
@@ -541,8 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -565,20 +567,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0427-construct-quad-tree/) | Medium |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -588,8 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
@@ -628,15 +631,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -648,8 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
@@ -665,40 +668,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -723,8 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0039-combination-sum) |
@@ -738,8 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
@@ -750,8 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3114-beautiful-towers-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3114-beautiful-towers-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0427-construct-quad-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -769,8 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -786,42 +790,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [2092-find-all-people-with-secret](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0577-employee-bonus) |
@@ -842,16 +846,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1934-confirmation-rate) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3454-separate-squares-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
@@ -861,63 +865,63 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0895-maximum-frequency-stack](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1462-course-schedule-iv) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0684-redundant-connection](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0901-online-stock-span](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/2013-detect-squares/) | Medium |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0706-design-hashmap/) | Easy |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
