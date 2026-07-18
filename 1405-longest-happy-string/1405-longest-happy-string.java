@@ -15,8 +15,8 @@ class Solution {
                 sb.append(c1);
                 if(hm.get(c1)==1)hm.remove(c1);
                 else{
-                    pq.offer(c1);
                     hm.put(c1,hm.get(c1)-1);
+                    pq.offer(c1);
                 }
                 pq.offer(ch1);
             }
