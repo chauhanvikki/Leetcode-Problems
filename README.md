@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1834-single-threaded-cpu](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-largest-magic-square](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1094-car-pooling](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1405-longest-happy-string/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1834-single-threaded-cpu/) | Medium |
