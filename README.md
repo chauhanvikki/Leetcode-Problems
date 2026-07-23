@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0502-ipo](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0767-reorganize-string) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0134-gas-station/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
