@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -842,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chauhanvikki/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chauhanvikki/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
